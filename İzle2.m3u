@@ -2,7 +2,7 @@
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴ULUSAL KANALLAR🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CİNE6 MAX" tvg-id="TRT 1.tr" tvg-logo="" group-title="[🇹🇷]Ulusal",CİNE6 MAX HD
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CİNE6 MAX" tvg-id="TRT 1.tr"tvg-logo="https://tv.canlitv.vip/poster/edessa-tv.png" group-title="[🇹🇷]Ulusal",CİNE6 MAX HD
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="[🇹🇷]Ulusal",TRT 1
