@@ -2,9 +2,6 @@
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴ULUSAL KANALLAR🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CİNE6 MAX" tvg-id="TRT 1.tr"tvg-logo="https://tv.canlitv.vip/poster/edessa-tv.png" group-title="[🇹🇷]Ulusal",CİNE6 MAX HD
-https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
-
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="[🇹🇷]Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
@@ -410,21 +407,6 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 
-#✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️ESPN SPORTS✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️
-
-#EXTINF:-1 tvg-name="ESPN HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN HD
-https://tinyurl.com/SyndraxicESPN
-
-#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN 2 HD
-https://tinyurl.com/SyndraxicESPN2
-
-#EXTINF:-1 tvg-name="ESPN U HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN U HD
-https://tinyurl.com/SyndraxicESPNu
-
-#EXTINF:-1 tvg-name="ESPN DEPORTES HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN DEPORTES HD
-https://tinyurl.com/SyndraxicESPNdeportes
-
-
 #⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 
 #EXTINF:-1 tvg-id="73" tvg-name="FX" tvg-logo="" group-title="[🇹🇷]Sinema",FX
@@ -609,7 +591,7 @@ https://tinyurl.com/SyndraxicKRS
 #EXTINF:-1 tvg-id="33" tvg-name="MELANKOLİK HOME FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",MELANKOLİK HOME FM
 https://tinyurl.com/SyndraxicMELANKOLIK
 
-#🇩🇪ALMANYA KANALLARI🇩🇪
+
 
 #EXTINF:-1 tvg-id="ARDalpha" tvg-name="ARD-alpha" tvg-country="de" tvg-language="de" group-title="🇩🇪ALMANYA KANALLARI🇩🇪",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
